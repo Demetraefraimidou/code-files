@@ -1,0 +1,118 @@
+[
+  {
+    "id": 0,
+    "title": "Meet the Wikipedians",
+    "images": [
+      {
+        "image":"wikipedians.png",
+        "link":"",
+        "display": false
+      },
+      {
+        "image":"a1.png",
+        "link":"https://en.wikipedia.org/wiki/User:AGK",
+        "display": false
+      },
+      {
+        "image": "a2.png",
+        "link": "https://en.wikipedia.org/wiki/User:Areunlukta"
+      },
+      {
+        "image": "a3.png",
+        "link": "https://en.wikipedia.org/wiki/User_talk:Atsme"
+      },
+      {
+        "image": "a4.png",
+        "link": "https://en.wikipedia.org/wiki/User:AtTheTopNairobi"
+      },
+      {
+        "image": "c2.png",
+        "link": "https://en.wikipedia.org/wiki/User:Cindytruong03"
+      },
+      {
+        "image": "c3.png",
+        "link": "https://en.wikipedia.org/wiki/User:ClemRutter"
+      },
+      {
+        "image": "c4.png",
+        "link": "https://en.wikipedia.org/wiki/User:%C8%9Ce%C5%BFtikl"
+      },
+      {
+        "image": "d1.png",
+        "link": "https://en.wikipedia.org/wiki/User:DavidsonH144"
+      },
+      {
+        "image": "f1.png",
+        "link": "https://en.wikipedia.org/wiki/User:Fateema_Hafiz"
+      },
+      {
+        "image": "g2.png",
+        "link": "https://en.wikipedia.org/wiki/User:Goldfinchshuffle"
+      },
+      {
+        "image": "i1.png",
+        "link": "https://en.wikipedia.org/wiki/User:I%27m_Aya_Syameimaru!"
+      },
+      {
+        "image": "p1.png",
+        "link": "https://en.wikipedia.org/wiki/User:Pratyush.shrivastava"
+      }
+    ],
+    "contents": [
+      "Many people believe that Wikipedia is an encyclopedia and machines generate the articles.",
+      "A small fraction of editors called the Wikipedians -- do most of the work and produce most of the value.",
+      "These people are real and they differ in occupation and motivation. The people who create and edit articles in Wikipedia come from many countries, with individuals who bring something different to the table, whether it be researching skills, technical expertise, writing prowess or organizational skills, but most importantly a willingness to help. Any contributor to this encyclopedia, unregistered and registered alike, is called a \"Wikipedian\", or, more formally, an \"editor\". Almost all Wikipedians are volunteers. With the increased maturity and visibility of Wikipedia, other categories of Wikipedians have emerged, such as Wikipedians in residence and students with assignments related to editing Wikipedia.",
+      "In this section you \"will\" meet some of the Wikipedians.",
+      "This is the glossary of the editors",
+      "- A",
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Welcome to the Wikipedia Barnstar Awards!",
+    "images": [
+      {
+        "image": "barnstars.png",
+        "link": "",
+        "display": false
+      },
+      {
+        "image": "stars.png",
+        "link": "",
+        "display": true
+      }
+    ],
+    "contents": [
+      "A barnstar (or barn star, primitive star, or Pennsylvania star) is a painted object or image, often in the shape of a five-pointed star but occasionally in a circular \"wagon wheel\" style, used to decorate a barn in some parts of the United States. They have no structural purpose but may be considered lucky, akin to a horseshoe mounted over a doorway.They are especially common in Pennsylvania and frequently seen in German-American farming communities. They are also found in Canada, particularly in the province of Ontario.",
+      "Some Wiki-based communities give their users an award called a \"barnstar\", as a continuation of the \"barn raising\" metaphor. The practice originated on MeatballWiki and was adopted by Wikipedia in 2003.The image that is frequently used for this purpose is actually a photo of one of the structural tie plates described above, not of a proper barnstar.",
+      "It is the custom to reward Wikipedia contributors for hard work and due diligence by awarding them a barnstar. To give the award to someone, just place the image on their talk page, and explain why it was given. If you are sure the barnstar is appropriate, don't be shy! The barnstar is not unique to Wikipedia. Some years ago, some wiki-based communities began to give their users awards called barn stars, using a star anchor to represent the concept of the shared work experience, as in barn raising. See Barnstar for more background about the word. The concept of the barnstar as a Wiki award was created by SunirShah on MeatballWiki. Web designers were invited to incorporate a similar barn star design into their project as Easter eggs. Wiki barnstars were introduced to Wikipedia in December 2003 by MartinHarper.Since then, the concept has become ingrained in the Wikipedia culture. These awards are part of the Kindness Campaign and are meant to promote civility and WikiLove. They are a form of warm fuzzy: they are free to give and they bring joy to the recipient. While awarding a barnstar, remember to provide relevant text as to why you are awarding it. The following are some of the barnstars and awards currently in use. If you don't feel any of these covers the topics you are concerned with, you can always design your own award (using these examples, if you like). If you have questions, WikiProject Wikipedia Awards is a group of volunteers who help guide these pages. There are many types of barnstars. Please make sure that your choice is fair and appropriate, which will help prevent over-use. Remember that there are other ways of showing simple appreciation to someone, such as a comment on the user's talk page, a \"thank\" notification from an article's history page, and alternative awards such as cookies in Personal user awards.",
+      "As you will see in some of the Wikipedian's pages they have barnstars. Here's only some of the barnstars they acquired and what their meaning."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "My third article",
+    "images": [
+      {
+        "image": "cultural.png",
+        "link": "https://drive.google.com/file/d/1MrzeL2_DRDiCd5x4O_8Ky9kujyB8zKe8/view?usp=sharing",
+        "display": false
+      }
+    ],
+    "contents": [
+      "analysis.pdf"
+    ]
+  }
+]
